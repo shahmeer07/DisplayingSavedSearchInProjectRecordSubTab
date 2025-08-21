@@ -16,7 +16,7 @@ define (["N/ui/serverWidget" , "N/url","N/runtime"] , function (serverWidget,url
 
             form.addTab({
                 id: 'custpage_open_po_lines_tab',
-                label: "Open PO Lines"
+                label: "All Project PO Lines"
             })
 
             var Suitelet_URL = url.resolveScript({
