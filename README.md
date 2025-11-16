@@ -147,3 +147,7 @@ The Suitelet contains structured try/catch logic that:
 Pull requests, enhancements, and improvements are welcome!
 
 ---
+
+### Author
+
+Shahmeer Khan 
